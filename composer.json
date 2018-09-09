@@ -18,6 +18,7 @@
         "blacklist": [
           "drupal/admin_toolbar"
         ],
+        "one_pull_request_per_package": 1,
         "allow_updates_beyond_constraint": 1
       }
     }
